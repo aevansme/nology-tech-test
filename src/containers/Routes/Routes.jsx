@@ -7,8 +7,8 @@ import React from 'react';
 const Routes = () => {
     return (
         <Router>
-            <Dashboard path="/"/>
-            <WeatherList path="/WeatherList"/>
+            <Dashboard path="/" />
+            <WeatherList path="/WeatherList" />
         </Router>
     )
 }

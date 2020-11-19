@@ -10,7 +10,7 @@ const App = () => {
   return (
     <div className="App">
       <WeatherDataProvider>
-        <Routes/>
+        <Routes />
       </WeatherDataProvider>
     </div>
   );
